@@ -1,4 +1,4 @@
-import { lusitana } from '@/app/ui/fonts';
+import { lusitana } from '../ui/fonts/fonts';
 import {
   AtSymbolIcon,
   KeyIcon,
